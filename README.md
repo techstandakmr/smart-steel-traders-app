@@ -24,7 +24,7 @@ This application is designed for shop owners and sales staff to streamline daily
 
 This app helps manage:
 
-- User authentication & role-based access
+- User authentication
 - Product inventory
 - Categories
 - Purchase management
@@ -53,24 +53,11 @@ Capabilities:
 
 ---
 
-### 2. Salesman
-Salesman has limited operational access.
-
-Capabilities:
-
-- Create sales
-- Manage orders
-- View assigned data
-- Generate reports
-
----
-
 ## Features
 
 # Authentication
 
 - Secure Login
-- Role-based access control
 - Session management
 
 ---
@@ -83,10 +70,6 @@ Capabilities:
 - Edit user
 - Delete user
 - Explore specific user
-
-### Roles
-- Admin
-- Salesman
 
 ---
 
